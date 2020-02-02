@@ -6,4 +6,4 @@ Based off the official docker wordpress, tailored for AWS and containerization w
 - Apache 2
 - Wordpress 5.3
 
-Available as one-click launch on AWS, instructions and usage available here: https://appxen.com/app/wordpress
+Available as one-click launch on AWS - https://appxen.com/app/wordpress
